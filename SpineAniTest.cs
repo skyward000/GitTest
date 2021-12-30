@@ -32,7 +32,7 @@ public class SpineAniTest : MonoBehaviour
 
     void Start()
     {
-
+        Debug.Log("666");
     }
 
     // Update is called once per frame
